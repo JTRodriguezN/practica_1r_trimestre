@@ -6,8 +6,7 @@
     height: 358px;
     background-position: center;
     background-size: cover;
+    padding-bottom: 390px;
+    padding-top: 50px;
 }
 
-.btn-load-more{
-    color: #FF5480;
-}
